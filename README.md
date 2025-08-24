@@ -1,6 +1,6 @@
 # Cost of Living in Singapore Data Visualisation Analysis
 
-This project explores the real vs perceived cost of living in Singapore, analysing the effects of taxes, healthcare costs, and essential living expenses across different income groups. We compare Singapore's situation with other countries and evaluate the impact of government interventions from 2014 to present.
+This project explores the real vs perceived cost of living in Singapore, analysing the effects of taxes, healthcare costs, and essential living expenses across different income groups. We compare Singapore's situation with other countries and evaluate the impact of government interventions from 2014 to the present.
 
 Our analysis focuses on four key domains: 
 - **Taxes**: GST, income tax, and property tax
@@ -13,7 +13,7 @@ The target audiences include researchers, policymakers, and informed citizens in
 ---
 ## Getting Started
 
-We use [`uv`](https://docs.astral.sh/uv/) as our Python dependency manager. You may be able to ru nthe notebooks with Anaconda, but using `uv` is **strongly recommended** to ensure consistent environment.
+We use [`uv`](https://docs.astral.sh/uv/) as our Python dependency manager. You may be able to run the notebooks with Anaconda, but using `uv` is **strongly recommended** to ensure a consistent environment.
 
 ### Prerequisites
 
